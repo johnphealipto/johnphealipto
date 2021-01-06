@@ -1,6 +1,6 @@
 ## Hi 👋
 
-#### I am self-taught Frontend Web Developer from Nigeria.
+#### I am a self-taught Frontend Web Developer from Nigeria.
 
 <!--
 **johnphealipto/johnphealipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
