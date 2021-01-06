@@ -1,5 +1,5 @@
 ### Hi 👋
-
+<hr>
 <p>I am a self-taught Frontend Web Developer from Nigeria.</p>
 <p>Currently working on my first major project &rsaquo; Em2gee Foods</p>
 
