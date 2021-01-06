@@ -1,6 +1,7 @@
-## Hi 👋
+### Hi 👋
 
-#### I am a self-taught Frontend Web Developer from Nigeria.
+<p>I am a self-taught Frontend Web Developer from Nigeria.</p>
+<p>Currently working on my first major project &rsaquo; Em2gee Foods</p>
 
 <!--
 **johnphealipto/johnphealipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
