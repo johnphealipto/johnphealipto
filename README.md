@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a self-taught Frontend Web Developer from Nigeria :nigeria:
-Currently working on my first major project &rsaquo; Em2gee Foods 🔭
+, currently working on my first major project &rsaquo; Em2gee Foods 🔭
 
 ### Skills:
 
@@ -11,8 +11,8 @@ Currently working on my first major project &rsaquo; Em2gee Foods 🔭
 - JavaScript ES6
 - jQuery
 - GIT version control
-- NPM package manager
 - React
+- NPM package manager
 
 <!--
 **johnphealipto/johnphealipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
