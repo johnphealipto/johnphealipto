@@ -8,11 +8,11 @@ I am a self-taught Frontend Web Developer from Nigeria :nigeria:
 - HTML5
 - CSS3 
 - Bootstrap 4.5
-- JavaScript ES6
+<!-- - JavaScript ES6 -->
 - jQuery
 - GIT version control
-- React
-- NPM package manager
+<!-- - React -->
+<!-- - NPM package manager -->
 
 <!--
 **johnphealipto/johnphealipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
