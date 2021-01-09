@@ -8,9 +8,9 @@ I am a self-taught Frontend Web Developer from Nigeria :nigeria:
 - HTML5
 - CSS3 
 - Bootstrap 4.5
-<!-- - JavaScript ES6 -->
 - jQuery
 - GIT version control
+<!-- - JavaScript ES6 -->
 <!-- - React -->
 <!-- - NPM package manager -->
 
