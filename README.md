@@ -2,10 +2,10 @@
 
 I’m a self-taught Frontend Web Developer from Nigeria :nigeria:
 
-#### Skills: HTML5 - CSS3 - Bootstrap - jQuery - React
+#### I work with: HTML5 - CSS3 - Bootstrap - jQuery - React
 
 - 🔭 I’m currently working on <a href="https://johnphealipto.github.io/em2gee-foods/">Em2gee Foods</a>
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning <a href="https://reactjs.org/">React.js</a>
 - 📫 How to reach me: johnadibe450@gmail.com
 
 <!-- - JavaScript ES6 -->
