@@ -9,9 +9,9 @@ I’m a self-taught Frontend Web Developer from Nigeria :nigeria:
 
 #### Connect with me:
 
-[<img align="left" alt="TutulDevs | Twitter" width="22px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter]
+[<img align="left" alt="johnphealipto | Twitter" width="20px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter]
 
-[<img align="left" alt="TutulDevs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="johnadibe | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/johnphealipto
 [linkedin]: https://www.linkedin.com/in/johnadibe/
