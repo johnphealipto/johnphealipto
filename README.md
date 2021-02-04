@@ -1,8 +1,8 @@
-## Hi 👋, I'm John Adibe
+## Hi 👋 I'm John Adibe
 
 A self-taught Frontend Web Developer from Nigeria :nigeria:
 
-- 🔭 I’m currently working on <a href="https://github.com/johnphealipto/outcess-loan-manager">Outcess Loan Manager</a> [A React.js Project]
+- 🔭 I’m currently working on my first React.js project <a href="https://github.com/johnphealipto/outcess-loan-manager">Outcess Loan Manager</a>
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: johnadibe450@gmail.com
 
