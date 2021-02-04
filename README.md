@@ -4,8 +4,8 @@ A self-taught Frontend Web Developer from Nigeria :nigeria:
 
 - 🌱 I’m currently learning React.js
 - 🔭 Also working on my first React.js project <a href="https://github.com/johnphealipto/outcess-loan-manager">Outcess Loan Manager</a>
-- 📫 How to reach me: johnadibe450@gmail.com
 - ⚡ Fun fact: I'm a lyricist & a guitarist
+- 📫 How to reach me: johnadibe450@gmail.com
 
 
 #### Connect with me:
