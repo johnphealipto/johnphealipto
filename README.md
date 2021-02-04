@@ -1,9 +1,9 @@
-## Hi 👋
+## Hi 👋, I'm John Adibe
 
-I’m a self-taught Frontend Web Developer from Nigeria :nigeria:
+A self-taught Frontend Web Developer from Nigeria :nigeria:
 
-- 🔭 I’m currently working on <a href="https://johnphealipto.github.io/em2gee-foods/">Em2gee Foods</a>
-- 🌱 I’m currently learning <a href="https://reactjs.org/">React.js</a>
+- 🔭 I’m currently working on <a href="https://github.com/johnphealipto/outcess-loan-manager">Outcess Loan Manager</a> [A React.js Project]
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me: johnadibe450@gmail.com
 
 
