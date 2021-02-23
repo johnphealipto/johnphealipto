@@ -3,7 +3,7 @@
 A self-taught Frontend Web Developer from Nigeria :nigeria:
 
 - 🌱 Currently expanding my knowledge on React.js
-- ⚡ Fun fact: I'm a lyricist & a guitarist
+- ⚡ Fun fact: I'm a lyricist with the guitar
 - 📫 How to reach me: johnadibe450@gmail.com
 
 
