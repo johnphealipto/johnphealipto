@@ -1,6 +1,6 @@
 ## Hi 👋 I'm John Adibe
 
-> A self-taught Frontend Web Developer from Nigeria :nigeria:
+A self-taught Frontend Web Developer from Nigeria :nigeria:
 
 - 🌱 Currently expanding my knowledge on React.js
 - ⚡ Fun fact: I'm a lyricist & a guitarist
