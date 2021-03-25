@@ -20,10 +20,6 @@ A self-taught Frontend Developer from Nigeria :nigeria:
 [twitter]: https://twitter.com/johnphealipto
 [linkedin]: https://www.linkedin.com/in/johnadibe/
 
-<br />
-
-![John's github stats](https://github-readme-stats.vercel.app/api?username=johnphealipto&show_icons=true&hide_border=true)
-
 <!-- <br /> -->
 
 <!-- ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnphealipto&show_icons=true&hide_border=true) -->
