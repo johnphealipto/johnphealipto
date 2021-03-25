@@ -1,14 +1,14 @@
 ## Hi 👋 I'm John Adibe
 
-A self-taught Frontend Web Developer from Nigeria :nigeria:
+A self-taught Frontend Developer from Nigeria :nigeria:
 
-- 🌱 Currently expanding my knowledge on React.js
+- 🌱 Currently learning **React.js**
 
-- 💬 Ask me about CSS & React.js 
+- 💬 Ask me about **CSS** & **React.js** 
 
 - 👯 I’m looking to collaborate on any project
 
-- 📫 How to reach me: johnadibe450@gmail.com
+- 📫 How to reach me: **johnadibe450@gmail.com**
 
 
 #### Connect with me:
