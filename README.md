@@ -3,7 +3,11 @@
 A self-taught Frontend Web Developer from Nigeria :nigeria:
 
 - 🌱 Currently expanding my knowledge on React.js
-- ⚡ Fun fact: I'm a songwriter 
+
+- 💬 Ask me about CSS & React.js 
+
+- 👯 I’m looking to collaborate on any project
+
 - 📫 How to reach me: johnadibe450@gmail.com
 
 
@@ -30,7 +34,6 @@ A self-taught Frontend Web Developer from Nigeria :nigeria:
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
