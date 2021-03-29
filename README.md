@@ -3,11 +3,8 @@
 A self-taught Frontend Developer from Nigeria :nigeria:
 
 - 🌱 Currently learning **React.js**
-
 - 💬 Ask me about **CSS** & **React.js** 
-
 - 👯 I’m looking to collaborate on any project
-
 - 📫 How to reach me: **johnadibe450@gmail.com**
 
 
