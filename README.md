@@ -17,14 +17,6 @@ A self-taught Frontend Developer from Nigeria :nigeria:
 [twitter]: https://twitter.com/johnphealipto
 [linkedin]: https://www.linkedin.com/in/johnadibe/
 
-<!-- <br /> -->
-
-<!-- ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnphealipto&show_icons=true&hide_border=true) -->
-
-<!-- - JavaScript ES6 -->
-<!-- - NPM package manager -->
-
-
 <!-- **johnphealipto/johnphealipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
