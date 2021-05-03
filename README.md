@@ -7,7 +7,6 @@ A self-taught Frontend Developer from Nigeria :nigeria:
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: **johnadibe450@gmail.com**
 
-
 #### Connect with me:
 
 [<img align="left" alt="johnphealipto | Twitter" width="20px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter]
@@ -24,4 +23,3 @@ A self-taught Frontend Developer from Nigeria :nigeria:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
