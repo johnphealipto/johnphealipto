@@ -15,7 +15,7 @@ A self taught Frontend Developer from Nigeria :nigeria:
 [twitter]: https://twitter.com/johnphealipto
 [linkedin]: https://www.linkedin.com/in/johnadibe/
 
-<!-- **johnphealipto/johnphealipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **johnphealipto/johnphealipto**  ✨ _special_ ✨ -->
 
 <!-- Here are some ideas to get you started: -->
 
