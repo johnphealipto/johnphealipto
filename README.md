@@ -9,7 +9,7 @@ A self taught Frontend Developer from Nigeria :nigeria:
 
 #### Connect with me:
 
-[<img align="left" alt="johnadibe | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="johnadibe | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />][linkedin]
 [<img align="left" alt="johnphealipto | Twitter" width="20px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/johnadibe/
