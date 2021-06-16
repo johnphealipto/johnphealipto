@@ -1,6 +1,6 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm John Adibe
 
-A self taught Frontend Developer from Nigeria <img width="20px" src="https://image.flaticon.com/icons/png/512/630/630697.png" />
+A self taught Frontend Developer from Nigeria <img align="right" width="20px" src="https://image.flaticon.com/icons/png/512/630/630697.png" />
 
 - 🌱 Broadening my knowledge on **React.js**
 - 💬 Ask me about **CSS** & **React.js** 
