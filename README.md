@@ -4,7 +4,7 @@ A self taught Frontend Developer from Nigeria <img align="right" width="20px" sr
 
 - 🌱 Broadening my knowledge on **React.js**
 - 💬 Ask me about **CSS** & **React.js** 
-- 👯 I’m looking to collaborate on any project
+- 👯 Ready to collaborate on any project
 - 📫 How to reach me: **johnadibe450@gmail.com**
 <!-- ⚡ Fun fact: -->
 
