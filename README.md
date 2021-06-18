@@ -6,6 +6,7 @@ A self taught Frontend Developer from Nigeria <img align="right" width="20px" sr
 - 💬 Ask me about **CSS** & **React.js** 
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: **johnadibe450@gmail.com**
+<!-- ⚡ Fun fact: -->
 
 #### Connect with me:
 
@@ -20,5 +21,4 @@ A self taught Frontend Developer from Nigeria <img align="right" width="20px" sr
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 😄 Pronouns: ... -->
