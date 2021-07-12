@@ -2,7 +2,7 @@
 
 - 🌱 Currently, I'm broadening my knowledge on **React.js**
 - 💬 Ask me about **CSS** & **React.js** 
-- 👯 Ready to collaborate on any project
+- 👯 Ready to collaborate on any project, especially on **React.js**
 - 📫 How to reach me: **johnadibe450@gmail.com**
 <!-- ⚡ Fun fact: -->
 
