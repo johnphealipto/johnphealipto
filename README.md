@@ -1,8 +1,7 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm John Adibe
 
 - 🌱 Currently, I'm broadening my knowledge on **React.js**
-- 💬 Ask me about **CSS** & **React.js** 
-- 👯 Ready to collaborate on any project, especially on **React.js**
+- 💬 Ask me about **CSS** & **React.js**
 - 📫 How to reach me: **johnadibe450@gmail.com**
 <!-- ⚡ Fun fact: -->
 
