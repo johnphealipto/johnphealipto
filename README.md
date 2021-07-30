@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm John Adibe Frontend Developer
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm John Adibe
 
 - 🌱 Currently, I'm broadening my knowledge on **React.js**
 - 💬 Ask me about **CSS** & **React.js**
