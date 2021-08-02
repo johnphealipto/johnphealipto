@@ -2,6 +2,7 @@
 
 - 🌱 Currently, I'm broadening my knowledge on **React.js**
 - 💬 Ask me about **CSS** & **React.js**
+- ⚡ Fun fact: 🎸😎🎼♟🎮
 - 📫 How to reach me: **johnadibe450@gmail.com**
 <!-- ⚡ Fun fact: -->
 
