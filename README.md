@@ -3,7 +3,7 @@
 - 🌱 Currently, I'm broadening my knowledge on **React.js**
 - 💬 Ask me about **CSS** & **React.js**
 - ⚡ Amateur guitarist 🎸😎🎼♟🎮
-- 📫 How to reach me: **johnadibe450@gmail.com**
+- 📫 Reach me via **johnadibe450@gmail.com**
 <!-- ⚡ Fun fact: -->
 
 #### Connect with me
