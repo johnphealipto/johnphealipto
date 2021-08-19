@@ -6,7 +6,7 @@
 - 📫 Reach me via **johnadibe450@gmail.com**
 <!-- ⚡ Fun fact: -->
 
-#### Connect with me
+#### Let's connect:
 
 [<img align="left" alt="johnadibe | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />][linkedin]
 [<img align="left" alt="johnphealipto | Twitter" width="20px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter]
