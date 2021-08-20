@@ -6,13 +6,15 @@
 - 📫 Reach me via **johnadibe450@gmail.com**
 <!-- ⚡ Fun fact: -->
 
-#### Let's connect:
+#### Connect with me
 
 [<img align="left" alt="johnadibe | LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />][linkedin]
-[<img align="left" alt="johnphealipto | Twitter" width="20px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter]
+[<img align="left" alt="johnadibe | Twitter" width="20px" src="https://tutuldevs.github.io/frontloops-photo/loop1/twitter.svg" />][twitter]
+[<img align="left" alt="johnadibe | Hashnode" width="20px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][Hashnode]
 
 [linkedin]: https://www.linkedin.com/in/johnadibe/
 [twitter]: https://twitter.com/johnphealipto
+[Hashnode]: https://hashnode.com/@johnphealipto
 
 <!-- **johnphealipto/johnphealipto**  ✨ _special_ ✨ -->
 <!-- Here are some ideas to get you started: -->
