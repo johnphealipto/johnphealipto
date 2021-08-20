@@ -1,10 +1,11 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm John Adibe
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 Currently, I'm broadening my knowledge on **React.js**
+I'm a Frontend Developer from Nigeria, enthusiastic about fixing & writing clean code, highly fascinated about new technologies. Aside programming, I'm a chess lover ♟ also I enjoy seeing animated movies & playing video games 🎮
+
+- 🌱 Focused on **React.js**
 - 💬 Ask me about **CSS** & **React.js**
 - ⚡ Amateur guitarist 🎸😎🎼♟🎮
 - 📫 Reach me via **johnadibe450@gmail.com**
-<!-- ⚡ Fun fact: -->
 
 #### Connect with me
 
