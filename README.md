@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Frontend Developer from Nigeria, enthusiastic about fixing & writing clean code, highly fascinated about new technologies. Aside programming, I'm a chess lover ♟
+I'm a Frontend Developer from Nigeria, enthusiastic about fixing & writing clean code and highly fascinated about new technologies. Aside programming, I'm a chess lover ♟
 
 - 🌱 Focused on **React.js**
 - 💬 Ask me about **CSS** & **React.js**
