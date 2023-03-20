@@ -33,9 +33,8 @@
 <!--   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnphealipto&show_icons=true&locale=en&layout=compact" alt="johnphealipto" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnphealipto&show_icons=true&locale=en" alt="johnphealipto" width="410" /></p> -->
-  
-### Get in touch
 
+<h2>Get in touch</h2>
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:johnadibe450@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/johnphealipto?label=johnphealipto&color=14171A&labelColor=37474f&logoColor=4fc3f7)](https://twitter.com/johnphealipto)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=ffffff&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/johnadibe/)
