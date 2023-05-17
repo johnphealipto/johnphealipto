@@ -9,8 +9,8 @@
 
 <h2>About me</h2>
 <ul>
-  <li>👨‍💻 I work with <strong>Typescript, ViteJS + ReactJS</strong></li>
-  <li>💬 Anything in mind related to Software Development (Frontend)? Ping me</li>
+  <li>👨‍💻 I work with <strong>Typescript, ViteJS + ReactJS</strong> and currently learning <strong>Three.JS</strong></li>
+  <li>💬 Anything in mind related to Software Development (Frontend)? Let's connect</li>
   <li>📫 Reach me via <strong>johnadibe450@gmail.com</strong></li>
 </ul>
 
