@@ -1,15 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm John Adibe</h1>
-<h3 align="center">Frontend Developer [Web && Mobile]</h3>
-<p align="center">
-  <em>
-  Passionate self-taught frontend developer from Nigeria, enjoys fixing & writing clean codes.<br>
-  I love tackling complex problems and will continue to find ways to maximize user efficiency.
-  </em>
-</p>
+<h3 align="center">Frontend Developer (Web & Mobile)</h3>
 
 <h2>About me</h2>
 <ul>
-  <li>👨‍💻 I work with <strong>Typescript, ViteJS + ReactJS</strong> and currently learning <strong>Three.JS</strong></li>
+  <li>👨‍💻 I work with <strong>Typescript, Next.js</strong> and currently learning <strong>Three.JS</strong></li>
   <li>💬 Anything in mind related to Software Development (Frontend)? Let's connect</li>
   <li>📫 Reach me via <strong>johnadibe450@gmail.com</strong></li>
 </ul>
